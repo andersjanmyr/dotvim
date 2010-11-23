@@ -51,4 +51,8 @@
 	url = git://github.com/xenoterracide/css.vim.git
 [submodule "bundle/vim-nerdcommenter"]
 	path = bundle/vim-nerdcommenter
-	url = http://github.com/scrooloose/nerdcommenter.git
+    url = http://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/vim-snipmate"]
+	path = bundle/vim-snipmate
+    url = https://github.com/msanders/snipmate.vim.git
+
