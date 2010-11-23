@@ -52,3 +52,6 @@
 [submodule "bundle/vim-nerdcommenter"]
 	path = bundle/vim-nerdcommenter
     url = http://github.com/scrooloose/nerdcommenter.git
+[submodule "snipmate.vim"]
+	path = snipmate.vim
+	url = git@github.com:andersjanmyr/snipmate.vim.git
