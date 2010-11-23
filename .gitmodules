@@ -55,3 +55,6 @@
 [submodule "bundle/snipmate.vim"]
 	path = bundle/snipmate.vim
 	url = git@github.com:andersjanmyr/snipmate.vim.git
+[submodule "bundle/keepcase"]
+	path = bundle/keepcase
+	url = https://github.com/vim-scripts/keepcase.vim.git
