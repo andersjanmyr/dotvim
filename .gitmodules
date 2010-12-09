@@ -49,9 +49,6 @@
 [submodule "bundle/vim-css/syntax"]
 	path = bundle/vim-css/syntax
 	url = git://github.com/xenoterracide/css.vim.git
-[submodule "bundle/vim-nerdcommenter"]
-	path = bundle/vim-nerdcommenter
-    url = http://github.com/scrooloose/nerdcommenter.git
 [submodule "bundle/snipmate.vim"]
 	path = bundle/snipmate.vim
 	url = git@github.com:andersjanmyr/snipmate.vim.git
@@ -61,3 +58,6 @@
 [submodule "bundle/ack.vim"]
 	path = bundle/ack.vim
 	url = https://github.com/adamlogic/ack.vim.git
+[submodule "bundle/tcomment_vim"]
+	path = bundle/tcomment_vim
+	url = https://github.com/tomtom/tcomment_vim.git
