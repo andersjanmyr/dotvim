@@ -1,2 +1,4 @@
 bundle/vim-peepopen
+tmp
+.netrwhist
 
